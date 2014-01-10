@@ -1,0 +1,1 @@
+Building a Multi-Threaded Web Server using two classes HttpRequest and WebServer. Implements version 1.0 of HTTP, as defined in RFC 1945, where separate HTTP requests are sent for each component of the Web page.
